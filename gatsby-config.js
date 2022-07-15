@@ -11,5 +11,4 @@ module.exports = {
   siteMetadata: {
     title: `wowods' notes`,
   },
-  pathPrefix: "/foam-gatsby",
 }
