@@ -10,3 +10,4 @@ For starter you could check my [[inbox]] for any random ideas and things that st
 Or, you could go to some of these topics:
 - Notes are [[the-furies]] and [[being-fair-is-not-about-right-or-wrong]].
 - Some notes about [[open-world-game]] and [[exploration-game]].
+- Note about [[color-code-in-game]]
