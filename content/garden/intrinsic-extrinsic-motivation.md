@@ -1,3 +1,8 @@
+---
+title: "Instrinsic and Extrinsic motivation"
+tags: #psychology
+---
+
 # Instrinsic and Extrinsic motivation
 
 Instrinsic motivation is a motivation that comes from yourself, the feeling when you want to do something because you value the effort or value the things by itself. You feel that you gain a reward by doing that activity.
